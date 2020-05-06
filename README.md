@@ -1,2 +1,2 @@
 # Plugin-Starter
-FreshySites Custom Plugin Starter - Fork Me
+FreshySites Plugin Starter - Fork Me
