@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: Add PluginName
-* Plugin URI: https://github.com/FreshyMichael/Plugin-Starter
-* Description: Add a Description
+* Plugin URI: https://github.com/maldersIO/Plugin-Starter
+* Description: This is the maldersIO plugin starter complete with Admin Dash Update Fucntionality
 * Version: 1.0.0
-* Author: FreshySites
-* Author URI: https://freshysites.com/
+* Author: maldersIO
+* Author URI: https://malders.io/
 * License: GNU v3.0
 */
 
